@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ponisworld/decimotercera_sesion_obc/issues"
   },
-  "homepage": "https://github.com/ponisworld/decimotercera_sesion_obc#readme"
+  "homepage": "https://github.com/ponisworld/decimotercera_sesion_obc#readme",
+  "devDependencies": {
+    "eslint": "^8.30.0"
+  }
 }
