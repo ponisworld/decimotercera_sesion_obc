@@ -1,8 +1,9 @@
 const nombre = 'Andrea';
-const apellido = 'Bellver García';
+const apellido = "Bellver García";
 
 const estudiante = `${nombre} ${apellido}`;
 
+/* eslint-disable */
 const estudianteMayus = estudiante.toUpperCase();
 const estudianteMinus = estudiante.toLowerCase();
 
@@ -15,3 +16,4 @@ const ultimaLetraApellido = apellido[apellido.length - 1];
 const estudianteSinEspacios = estudiante.trim();
 
 const bool = estudiante.includes(nombre);
+/* eslint-enable */
