@@ -1,4 +1,4 @@
-const nombre = 'Andrea';
+const nombre = "Andrea";
 const apellido = "Bellver García";
 
 const estudiante = `${nombre} ${apellido}`;
