@@ -1,0 +1,20 @@
+{
+  "name": "decimotercera_sesion_obc",
+  "version": "1.0.0",
+  "description": "Decimotercera sesión de JS con OBC",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ponisworld/decimotercera_sesion_obc.git"
+  },
+  "keywords": [],
+  "author": "Andrea Bellver García",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ponisworld/decimotercera_sesion_obc/issues"
+  },
+  "homepage": "https://github.com/ponisworld/decimotercera_sesion_obc#readme"
+}
